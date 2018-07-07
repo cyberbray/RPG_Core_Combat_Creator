@@ -750,56 +750,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -3.08
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 4.09
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0.2513055
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0.6364236
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0.15957312
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 0.71158063
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 34.108
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 85.593
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 6.4340005
-      objectReference: {fileID: 0}
-    - target: {fileID: 4030702205621036, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -1.49
-      objectReference: {fileID: 0}
-    - target: {fileID: 20747604146260716, guid: 9051e57c267ddae40b06c2e07c5924ea,
-        type: 2}
-      propertyPath: field of view
-      value: 70
-      objectReference: {fileID: 0}
-    - target: {fileID: 20747604146260716, guid: 9051e57c267ddae40b06c2e07c5924ea,
-        type: 2}
-      propertyPath: orthographic
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9051e57c267ddae40b06c2e07c5924ea, type: 2}
   m_IsPrefabParent: 0

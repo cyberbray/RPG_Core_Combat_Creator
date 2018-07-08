@@ -577,35 +577,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4073360502683108, guid: e6b71feaade0db54e88748c155e87b5c,
     type: 2}
   m_PrefabInternal: {fileID: 945569223}
---- !u!1 &1265481269 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1868770111898378, guid: 9051e57c267ddae40b06c2e07c5924ea,
-    type: 2}
-  m_PrefabInternal: {fileID: 2000935446}
---- !u!114 &1265481272
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1265481269}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3297bed019801cf43887948d07481205, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1265481273
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1265481269}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0229de4d5d106e46b0fa32b1fcfb0ee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  layerPriorities: 0b0000000a000000
-  distanceToBackground: 100
 --- !u!1001 &1700055492
 Prefab:
   m_ObjectHideFlags: 0
@@ -644,10 +615,6 @@ Prefab:
     - target: {fileID: 408730, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 149790, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
-      propertyPath: m_TagString
-      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
